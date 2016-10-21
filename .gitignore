@@ -1,0 +1,25 @@
+vulkan engine/x64/
+vulkan engine/engine/debug/
+vulkan engine/engine/release/
+vulkan engine/engine.VC.db
+engine.VC.VC.opendb
+engine.VC.db
+*.db
+*.obj
+*.suo
+*.user
+bin
+obj
+packages
+_ReSharper.*
+*tlog
+tlog
+*.log
+log
+*.idb
+log
+*.pdb
+pdb
+*.filter
+cef_sandbox.lib
+libcef.dll
