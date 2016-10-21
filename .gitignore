@@ -23,3 +23,6 @@ pdb
 *.filter
 cef_sandbox.lib
 libcef.dll
+cef.VC.VC.opendb
+build/*
+build/
